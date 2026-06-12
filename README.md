@@ -22,4 +22,4 @@ You can easily install this package directly through the Unity Package Manager u
 4. Paste the following link and click **Add**:
 
 ```text
-https://github.com/7Lucia7Lokidottir7/PG-Hierarchy-Folder-Creator.git?path=/Hierarchy%20Folder%20Creator/Assets/PG%20Hierarchy%20Folder%20Creator
+https://github.com/Lucia7Lunadottir/PG-Hierarchy-Folder-Creator.git?path=/Hierarchy%20Folder%20Creator/Assets/PG%20Hierarchy%20Folder%20Creator
